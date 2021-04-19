@@ -1,6 +1,6 @@
 # Registration
 
-This repository contains the two components of registration:
+This repository contains the two components of registration: 
 1. Registration Client
 1. Registration Processor 
 
